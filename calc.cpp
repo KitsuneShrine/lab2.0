@@ -7,3 +7,5 @@ case 3: result = a * b; break;
 
 case 4: result = (double) a / b; break;
 
+case 5: result = pow(a, b); break
+
