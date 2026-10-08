@@ -1,0 +1,1 @@
+case 2: result = a - b; break;
